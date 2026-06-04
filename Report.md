@@ -390,4 +390,39 @@ Clang при \texttt{-O0} строго следует исходнику,
 Репозиторий с исходным кодом, ассемблерными листингами и всеми таблицами:
 \url{https://github.com/Andrew2114/Compiler_optimization}.
 
+
+
+\begin{thebibliography}{9}
+
+\bibitem{aho}
+Ахо~А., Лам~М., Сети~Р., Ульман~Дж.
+\textit{Компиляторы: принципы, технологии, инструменты}.
+М.:~Вильямс, 2008. Гл.~8--9.
+
+\bibitem{csapp}
+Брайант~Р., О'Халларон~Д.
+\textit{Компьютерные системы: архитектура и программирование}.
+М.:~Вильямс, 2016. Гл.~3, 5.
+
+\bibitem{gcc-opt}
+GCC~Team. \textit{Options That Control Optimization} // GCC~14 Documentation.
+URL:~\url{https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html} (дата обращения: 17.04.2026).
+
+\bibitem{clang-guide}
+LLVM~Team. \textit{Clang Command Guide} // Clang Documentation.
+URL:~\url{https://clang.llvm.org/docs/CommandGuide/clang.html}
+(дата обращения: 09.03.2026).
+
+\bibitem{intel-icx}
+Intel Corporation. \textit{Intel oneAPI DPC++/C++ Compiler Developer Guide}.
+URL:~\url{https://www.intel.com/content/www/us/en/docs/dpcpp-cpp-compiler/developer-guide-reference/} (дата обращения: 22.05.2026).
+
+\bibitem{agner}
+Fog~A. \textit{Optimizing subroutines in assembly language}.
+Technical University of Denmark, 2024.
+URL:~\url{https://www.agner.org/optimize/optimizing_assembly.pdf} (дата обращения: 09.03.2026).
+
+
+\end{thebibliography}
+
 \end{document}
